@@ -1,0 +1,2 @@
+& "C:\Users\Admin\AppData\Local\Microsoft\Edge SxS\Application\msedge.exe" https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com https://www.olymptrade.com cls
+spo
